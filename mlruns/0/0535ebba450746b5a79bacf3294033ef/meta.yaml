@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/0535ebba450746b5a79bacf3294033ef/artifacts
+end_time: 1668084601343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0535ebba450746b5a79bacf3294033ef
+run_name: melodic-slug-996
+run_uuid: 0535ebba450746b5a79bacf3294033ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668084485956
+status: 3
+tags: []
+user_id: pranav

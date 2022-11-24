@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/c907d67af1594f5f81808c3002d4e52f/artifacts
+end_time: 1668080767528
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c907d67af1594f5f81808c3002d4e52f
+run_name: sassy-goose-502
+run_uuid: c907d67af1594f5f81808c3002d4e52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668080766270
+status: 3
+tags: []
+user_id: pranav
